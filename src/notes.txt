@@ -1,0 +1,31 @@
+Installtion 
+
+Option 1:
+nodejs - installation 
+ - exe, setup download & install
+
+Option 2:
+12 - 16, 17
+nvm - node version manager
+
+- node setup (core)
+- npm (extra package)
+
+
+- hooks
+// important 
+ - useState()
+ - useEffect()
+
+// not so important but necessary
+ - useCallback()
+ - useMemo()
+
+
+ // promise
+ // async await
+ // axios - library 
+
+ https://jsonplaceholder.typicode.com/
+
+ https://www.youtube.com/c/webdevsimplified 
